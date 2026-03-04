@@ -8,7 +8,7 @@ def main():
     print("Connecting to CoppeliaSim...")
     client = RemoteAPIClient()
     sim = client.require('sim')
-    print("Connected!")
+    print("Connected!!")
 
     sim.startSimulation()
 
