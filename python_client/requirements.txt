@@ -1,0 +1,5 @@
+coppeliasim-zmqremoteapi-client
+pyzmq
+torch
+opencv-python
+numpy
