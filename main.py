@@ -6,6 +6,7 @@ from python_client.keyboard_control import FrankaKeyboardController
 
 def main():
     print("Connecting to CoppeliaSim...")
+    print("I love you")
     client = RemoteAPIClient()
     sim = client.require('sim')
     print("Connected!")
